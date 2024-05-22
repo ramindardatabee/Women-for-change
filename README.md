@@ -8,8 +8,10 @@ Overview:
 The project "Women for Change" aims to raise awareness of extreme gender inequality and catalyze global action to eradicate it. Through a series of data visualizations, the project seeks to educate and inform communities about gender inequality, fostering a collective commitment to building a more equitable world. The current phase of the project concentrates on systemic barriers hindering progress towards gender equality. Specifically, the focus is on assessing the proportion of seats held by women in national parliaments.
 Importance of Gender Equality in Leadership:
 Active participation of women in leadership and decision-making roles is a pivotal objective within the 2030 Agenda for Sustainable Development. The dataset concentrates on parliamentary participation at the national level. However, it underscores the broader reality that women remain underrepresented across all positions of power - be it elected offices, civil service, private sector leadership, board roles, or academia. A 2011 UN General Assembly Resolution emphasizes the global marginalization of women from the political sphere, attributing it to discriminatory laws, practices, attitudes, gender stereotypes, low education levels, limited healthcare access, and the disproportionate impact of poverty on women.
+
 Call To action:
 While some women have overcome these challenges, their success remains a minority in the global political landscape. The project underscores the urgency to create gender-equal and balanced political spaces. The provided facts and figures illustrate the existing gaps and emphasize the imperative need for concerted efforts to achieve lasting change in the realm of gender equality.
+
 Dataset:   You can download the dataset 
 SOURCE ARTICLE: Proportion of seats held by women in national parliaments
 DATA SOURCE: World Bank
